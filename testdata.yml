@@ -5,6 +5,10 @@ MM_Testdata:
   Testcase4: 81430
 BW_Testdata:
   Testcase1: 80233
+  Testcase1: 80443
+  Testcase1: 80441
+  Testcase1: 80440
+  Testcase1: 80235
   Testcase2: 34567
   Testcase3: 46726
 LJ_Testdata:
